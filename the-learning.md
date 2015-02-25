@@ -2,5 +2,5 @@
 
 # Changelog
 ### Friday 20th February 2015
-* [Video] [All The Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
-* [Video] [Wat](https://www.destroyallsoftware.com/talks/wat)
+* [All The Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) #video #oo #rails
+* [Wat](https://www.destroyallsoftware.com/talks/wat) #video #funny #javascript #ruby
