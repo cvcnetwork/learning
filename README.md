@@ -6,9 +6,17 @@ This is our collection of videos and writing that we've watched and learnt from.
 
 Now it's your turn to add something.
 
-Create a branch, add a url to the list then make a pull request. Let's keep the
-discussion about the content, and our thoughts after consuming it, in the PR 
-for future reference.
+## Contributing
+
+1. Create a branch.
+2. Add a url to the top of `the-learning.md` under the proposed heading, feel
+free to add hashtags to this line for tl;dr purposes.
+3. In your commit message include a short description of the content and why
+it's beneficial to the team.
+4. Create a pull request and start the discussion.
+
+Let's keep the discussion about the content, and our thoughts after consuming it,
+in the PR for future reference.
 
 We merge it once it's been watched or read.
 
