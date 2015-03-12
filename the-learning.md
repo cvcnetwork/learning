@@ -1,5 +1,4 @@
 # Proposed
-* [The Product is the Byproduct](http://zachholman.com/talk/product-is-the-byproduct/)
 
 # Changelog
 ### Friday 6th March 2015
