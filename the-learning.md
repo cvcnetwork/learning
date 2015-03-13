@@ -1,4 +1,5 @@
 # Proposed
+* [Word of Mouth](http://zachholman.com/talk/word-of-mouth/)
 
 # Changelog
 ### Friday 6th March 2015
