@@ -1,4 +1,5 @@
 # Proposed
+* [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) #read #design #web
 
 # Changelog
 ### Friday 6th March 2015
