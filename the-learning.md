@@ -1,4 +1,5 @@
 # Proposed
+* [Move fast & break nothing](http://zachholman.com/talk/move-fast-break-nothing/)
 
 # Changelog
 ### Friday 6th March 2015
