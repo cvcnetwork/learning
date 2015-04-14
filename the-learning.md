@@ -1,4 +1,5 @@
 # Proposed
+* [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/) #read #git
 
 # Changelog
 ### Friday 6th March 2015
