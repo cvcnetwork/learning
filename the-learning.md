@@ -1,4 +1,5 @@
 # Proposed
+* [One Language A Year - Elixir](http://devslovebacon.com/conferences/bacon-2014/talks/one-language-a-year-elixir) #video #elixir
 
 # Changelog
 ### Friday 6th March 2015
