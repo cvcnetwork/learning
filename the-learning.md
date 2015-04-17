@@ -1,4 +1,5 @@
 # Proposed
+* [Rebuilding HipChat with React](https://developer.atlassian.com/blog/2015/02/rebuilding-hipchat-with-react/) #read #javascript #reactjs
 
 # Changelog
 ### Friday 6th March 2015
