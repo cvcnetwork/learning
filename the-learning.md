@@ -1,4 +1,5 @@
 # Proposed
+* [60fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/) #read #canvas #javascript
 
 # Changelog
 ### Friday 6th March 2015
